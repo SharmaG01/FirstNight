@@ -63,12 +63,14 @@ html,body{
     border-radius: 50   px;
     display: flex;
     margin-left: 20px;
+
     
 }
 #login:hover{
     background-color: lightblue;
-    border-radius: 50%;
-}
+    
+    border-radius: 10%; 
+} 
 
 #try{
     background-color: green;
